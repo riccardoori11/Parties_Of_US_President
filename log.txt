@@ -1,142 +1,95 @@
 [{Number:1
- Name:George Washington
- Party:Unaffiliated
+ Name:georgewashington Party:Unaffiliated
 } {Number:2
- Name:John Adams
- Party:Federalist
+ Name:johnadams Party:Federalist
 } {Number:3
- Name:Thomas Jefferson
- Party:Democratic-Republican
+ Name:thomasjefferson Party:Democratic-Republican
 } {Number:4
- Name:James Madison
- Party:Democratic-Republican
+ Name:jamesmadison Party:Democratic-Republican
 } {Number:5
- Name:James Monroe
- Party:Democratic-Republican
+ Name:jamesmonroe Party:Democratic-Republican
 } {Number:6
- Name:John Quincy Adams
- Party:Democratic-Republican[f]National Republican
+ Name:johnquincyadams Party:Democratic-Republican[f]National Republican
 } {Number:7
- Name:Andrew Jackson
- Party:Democratic
+ Name:andrewjackson Party:Democratic
 } {Number:8
- Name:Martin Van Buren
- Party:Democratic
+ Name:martinvanburen Party:Democratic
 } {Number:9
- Name:William Henry Harrison
- Party:Whig
+ Name:williamhenryharrison Party:Whig
 } {Number:10
- Name:John Tyler
- Party:Whig[j]Unaffiliated
+ Name:johntyler Party:Whig[j]Unaffiliated
 } {Number:11
- Name:James K Polk
- Party:Democratic
+ Name:jameskpolk Party:Democratic
 } {Number:12
- Name:Zachary Taylor
- Party:Whig
+ Name:zacharytaylor Party:Whig
 } {Number:13
- Name:Millard Fillmore
- Party:Whig
+ Name:millardfillmore Party:Whig
 } {Number:14
- Name:Franklin Pierce
- Party:Democratic
+ Name:franklinpierce Party:Democratic
 } {Number:15
- Name:James Buchanan
- Party:Democratic
+ Name:jamesbuchanan Party:Democratic
 } {Number:16
- Name:Abraham Lincoln
- Party:RepublicanNational Union[l]
+ Name:abrahamlincoln Party:RepublicanNational Union[l]
 } {Number:17
- Name:Andrew Johnson
- Party:National Union[n]Democratic
+ Name:andrewjohnson Party:National Union[n]Democratic
 } {Number:18
- Name:Ulysses S Grant
- Party:Republican
+ Name:ulyssessgrant Party:Republican
 } {Number:19
- Name:Rutherford B Hayes
- Party:Republican
+ Name:rutherfordbhayes Party:Republican
 } {Number:20
- Name:James A Garfield
- Party:Republican
+ Name:jamesagarfield Party:Republican
 } {Number:21
- Name:Chester A Arthur
- Party:Republican
+ Name:chesteraarthur Party:Republican
 } {Number:22
- Name:Grover Cleveland
- Party:Democratic
+ Name:grovercleveland Party:Democratic
 } {Number:23
- Name:Benjamin Harrison
- Party:Republican
+ Name:benjaminharrison Party:Republican
 } {Number:24
- Name:Grover Cleveland
- Party:Democratic
+ Name:grovercleveland Party:Democratic
 } {Number:25
- Name:William McKinley
- Party:Republican
+ Name:williammckinley Party:Republican
 } {Number:26
- Name:Theodore Roosevelt
- Party:Republican
+ Name:theodoreroosevelt Party:Republican
 } {Number:27
- Name:William Howard Taft
- Party:Republican
+ Name:williamhowardtaft Party:Republican
 } {Number:28
- Name:Woodrow Wilson
- Party:Democratic
+ Name:woodrowwilson Party:Democratic
 } {Number:29
- Name:Warren G Harding
- Party:Republican
+ Name:warrengharding Party:Republican
 } {Number:30
- Name:Calvin Coolidge
- Party:Republican
+ Name:calvincoolidge Party:Republican
 } {Number:31
- Name:Herbert Hoover
- Party:Republican
+ Name:herberthoover Party:Republican
 } {Number:32
- Name:Franklin D Roosevelt
- Party:Democratic
+ Name:franklindroosevelt Party:Democratic
 } {Number:33
- Name:Harry S Truman
- Party:Democratic
+ Name:harrystruman Party:Democratic
 } {Number:34
- Name:Dwight D Eisenhower
- Party:Republican
+ Name:dwightdeisenhower Party:Republican
 } {Number:35
- Name:John F Kennedy
- Party:Democratic
+ Name:johnfkennedy Party:Democratic
 } {Number:36
- Name:Lyndon B Johnson
- Party:Democratic
+ Name:lyndonbjohnson Party:Democratic
 } {Number:37
- Name:Richard Nixon
- Party:Republican
+ Name:richardnixon Party:Republican
 } {Number:38
- Name:Gerald Ford
- Party:Republican
+ Name:geraldford Party:Republican
 } {Number:39
- Name:Jimmy Carter
- Party:Democratic
+ Name:jimmycarter Party:Democratic
 } {Number:40
- Name:Ronald Reagan
- Party:Republican
+ Name:ronaldreagan Party:Republican
 } {Number:41
- Name:George H W Bush
- Party:Republican
+ Name:georgehwbush Party:Republican
 } {Number:42
- Name:Bill Clintonb 
- Party:Democratic
+ Name:billclintonb Party:Democratic
 } {Number:43
- Name:George W Bushb 
- Party:Republican
+ Name:georgewbushb Party:Republican
 } {Number:44
- Name:Barack Obamab 
- Party:Democratic
+ Name:barackobamab Party:Democratic
 } {Number:45
- Name:Donald Trumpb 
- Party:Republican
+ Name:donaldtrumpb Party:Republican
 } {Number:46
- Name:Joe Bidenb 
- Party:Democratic
+ Name:joebidenb Party:Democratic
 } {Number:47
- Name:Donald Trumpb 
- Party:Republican
+ Name:donaldtrumpb Party:Republican
 }]
