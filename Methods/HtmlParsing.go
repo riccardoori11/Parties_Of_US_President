@@ -48,6 +48,7 @@ func HtmlParsing(g *goquery.Document) {
 	
 
 	//remove the last element 
+	// Need to remove this magic number
 	presidents = presidents[:len(presidents) -21]
 
 	fmt.Printf("%+v",presidents)
