@@ -6,6 +6,8 @@ import (
 	"io"
 	"net/http"
 	"time"
+	"github.com/PuerkitoBio/goquery"
+	"log"
 )
 
 
@@ -31,16 +33,19 @@ func main(){
 		_ = r.Close()
 	}(resp.Body)
 
-	b,err := io.ReadAll(resp.Body)
+	
+
+	
+	
+	doc,err := goquery.NewDocumentFromReader(resp.Body)
+	
 	if err != nil{
-		
-		fmt.Printf("Error reading %s \n", err)
-		return
+		log.Fatal("Failed to parse body ",err)
 	}
-
-	fmt.Printf("Status %s \n", resp.Status)
-	fmt.Printf("Body %s \n", b)
-
+	
+	methods.HtmlParsing(doc)
+	
+	
 	
 
 
